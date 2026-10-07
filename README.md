@@ -172,6 +172,18 @@ My core philosophy is building systems that solve deterministic problems with no
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishh70&theme=tokyo-night&hide_border=true" width="800" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vishh70/Vishh70/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishh70&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" width="400" alt="Top Languages"/>
 </div>
 
