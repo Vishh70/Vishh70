@@ -15,6 +15,12 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuaware70@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishh70)
 
+<br/>
+
+<a href="https://github.com/Vishh70">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishh70.Vishh70&left_color=black&right_color=2F80ED&left_text=Profile%20Views" alt="Visitors" />
+</a>
+
 </div>
 
 <br/>
@@ -73,7 +79,6 @@ My core philosophy is building systems that solve deterministic problems with no
 
 - **Algorithmic Depth**: Engineered a complaint resolution engine using **MiniLM-L6 semantic embeddings** followed by a 9-type **multi-label classification** (achieving 98.53% Micro-F1).
 - **Workflow Automation**: Implemented deterministic task generation using a **Directed Acyclic Graph (DAG)** and resolved dependencies via **Kahn's Topological Sort**.
-- **Data Architecture**: Built hybrid duplicate detection (Semantic + Temporal + Location) and grouped civic issues using Connected Components algorithms.
 - **Tech Stack**: `React 19` `Node.js` `Python` `Flask` `Supabase` `BullMQ` `Redis` `ONNX` `Scikit-learn`
 
 <br/>
@@ -83,7 +88,6 @@ My core philosophy is building systems that solve deterministic problems with no
 
 - **Packet Inspection**: Developed a real-time pipeline using Scapy to extract a **16-feature vector** per network packet with zero-latency processing.
 - **Unsupervised Learning**: Deployed an **Isolation Forest** model with dynamic risk calibration via multi-point quantile mapping to detect anomalies.
-- **Quality Assurance**: Engineered a robust **25-test validation suite** verifying the entire pipeline from packet capture to model inference.
 - **Tech Stack**: `Python` `Scapy` `Scikit-learn` `Flask` `Pytest` `Chart.js`
 
 <br/>
@@ -93,7 +97,6 @@ My core philosophy is building systems that solve deterministic problems with no
 
 - **Predictive Engine**: Deployed a comprehensive feature engineering pipeline feeding into an optimized inference model.
 - **Time-Machine Replay**: Built a historical auditing system allowing operators to anchor dashboards to past timestamps and verify AI predictions against actual scrap outcomes.
-- **Infrastructure**: Designed a robust `FastAPI` backend to serve model predictions with real-time telemetry processing and intelligent HTTP fallbacks.
 - **Tech Stack**: `Python` `FastAPI` `Pandas` `NumPy` `Parquet`
 
 <br/>
@@ -102,9 +105,17 @@ My core philosophy is building systems that solve deterministic problems with no
 > *Production-ready Next.js platform integrating AI, edge caching, and automated QA.*
 
 - **Infrastructure**: Architected a server-rendered `Next.js 15` platform utilizing `Prisma ORM` with PostgreSQL for type-safe relational data modeling.
-- **Automation**: Implemented comprehensive CI pipelines enforcing quality via `Playwright` E2E testing, `Vitest`, and `Lighthouse CI` performance budgets.
 - **Integrations**: Integrated `Google Gemini AI` for contextual content generation and `Cloudinary` for optimized media transformation.
 - **Tech Stack**: `Next.js 15` `Prisma` `PostgreSQL` `NextAuth` `Playwright` `Tailwind v4`
+
+<br/>
+
+### 📦 [ARTI Enterprises](https://github.com/Vishh70/box-manufacturers-website) | *Client-Facing Production Web Platform*
+> *Production client-facing website built with 3D product visualization and SEO engineering.*
+
+- **Interactive 3D**: Engineered a `Vite` + Vanilla JS application utilizing `Three.js` and WebGL for real-time 3D product configurators.
+- **Deployment & QA**: Established automated mobile testing and accessibility audits, actively deployed on Vercel with structured schema markup.
+- **Tech Stack**: `Vite` `Three.js` `JavaScript` `HTML/CSS` `Vercel`
 
 ---
 
@@ -146,6 +157,12 @@ My core philosophy is building systems that solve deterministic problems with no
 ---
 
 ## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vishh70&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishh70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="195" alt="GitHub Stats"/>
