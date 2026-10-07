@@ -145,9 +145,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishh70&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</div>
+
 
 <br/><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
