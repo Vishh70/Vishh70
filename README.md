@@ -1,17 +1,19 @@
+<div align="center">
+
 # Vishnu Aware
 
-Software Engineer
-Full-Stack • AI/ML • Cybersecurity
+**Software Engineer | Full-Stack • AI/ML • Cybersecurity**
 
-Building deterministic systems with machine learning and full-stack infrastructure.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Building+deterministic+systems;Engineering+with+machine+learning;Scaling+full-stack+infrastructure)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishh70/)
-[![Projects](https://img.shields.io/badge/Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vishh70)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishnuaware7066@gmail.com)
+
+</div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
 I am an Information Technology undergraduate specializing in **Cybersecurity Honours** at PCET's Nutan Maharashtra Institute of Engineering and Technology, Pune. I focus on engineering robust software architectures that bridge the gap between advanced machine learning, full-stack infrastructure, and network security. 
 
@@ -19,23 +21,7 @@ My core philosophy is building systems that solve deterministic problems with no
 
 ---
 
-## What I Build
-
-### Full-Stack Systems
-Web applications, APIs, authentication, databases and dashboards.
-
-### AI / ML Systems
-Prediction, classification, anomaly detection and inference pipelines.
-
-### Cybersecurity
-Network monitoring, intrusion detection and security-focused applications.
-
-### Production Web Engineering
-Responsive applications, QA, deployment, SEO and performance.
-
----
-
-## Featured Engineering
+## 🚀 Featured Engineering Projects
 
 ### 🏛️ [GrievanceIQ](https://github.com/Vishh70/grievanceiq) | *Civic Intelligence Platform*
 > AI-powered civic grievance processing and dependency-aware workflow system.
@@ -64,7 +50,7 @@ Responsive applications, QA, deployment, SEO and performance.
 
 ---
 
-## Engineering Stack
+## 🛠️ Engineering Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -74,34 +60,34 @@ Responsive applications, QA, deployment, SEO and performance.
 
 ---
 
-## Engineering Practices
+## 📊 GitHub Analytics
 
-- **Automated QA & E2E Testing**: Extensive usage of `Playwright` for E2E web testing and `Pytest` for backend validation suites.
-- **CI/CD & Deployment**: Configured strict GitHub Actions pipelines for linting, testing, and continuous deployment to Vercel/Render.
-- **Performance & SEO**: Integration of `Lighthouse CI` performance budgets and structured schema markup for discoverability.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishh70&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishh70&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishh70/Vishh70/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishh70/Vishh70/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vishh70/Vishh70/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-## Achievements
+## 🏆 Achievements & Education
 
 - **Top 20% (Under 5,000 / 25,000+)** — Microsoft Build With AI Hackathon
 - **Qualifier (Round 2)** — Anveshana 2025 Innovation Competition
-- **Best Event Manager 2024** — CC COMPANY (Managed 75+ tech/cultural events)
-- **8th Rank** — Pune District Junior Chess Championship
+- **B.E. Information Technology (Cybersecurity Honours)** — PCET's NMIET, Pune (2023–2027)
 
 ---
 
-## Education
-
-**B.E. Information Technology (Cybersecurity Honours)**
-*PCET's Nutan Maharashtra Institute of Engineering and Technology, Pune*
-2023–2027
-
----
-
-## Let's Build
-
-Open to software engineering / AI-ML / cybersecurity opportunities.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishh70/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishnuaware7066@gmail.com)
+<div align="center">
+  <i>Open to software engineering, AI-ML, and cybersecurity opportunities.</i> <br/>
+  <b><a href="mailto:vishnuaware7066@gmail.com">vishnuaware7066@gmail.com</a></b>
+</div>
