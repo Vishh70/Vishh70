@@ -1,28 +1,23 @@
 <div align="center">
-
-<h1 align="center">Hi, I'm Vishnu Aware 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Vishnu%20Aware&fontSize=70&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Cybersecurity&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=2000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Architect;AI+%2F+ML+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+  <a href="https://github.com/Vishh70">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishh70.Vishh70&left_color=black&right_color=2F80ED&left_text=Profile%20Views" alt="Visitors" />
+  </a>
 </div>
-
-**Building intelligent, secure, and production-ready software systems.**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishh70/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://grievanceiq-app.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuaware70@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishh70)
-
-<br/>
-
-<a href="https://github.com/Vishh70">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishh70.Vishh70&left_color=black&right_color=2F80ED&left_text=Profile%20Views" alt="Visitors" />
-</a>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/vishh70/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://grievanceiq-app.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:vishnuaware70@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br/>
 
 ## 🔭 About Me
@@ -31,7 +26,9 @@ I am an Information Technology undergraduate specializing in **Cybersecurity Hon
 
 My core philosophy is building systems that solve deterministic problems with non-deterministic AI capabilities — focusing on production deployments, algorithmic complexity, and secure system design.
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
 ## ⚙️ Core Competencies
 
@@ -70,7 +67,9 @@ My core philosophy is building systems that solve deterministic problems with no
   </tr>
 </table>
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
 ## 🛠️ Featured Engineering Case Studies
 
@@ -117,7 +116,9 @@ My core philosophy is building systems that solve deterministic problems with no
 - **Deployment & QA**: Established automated mobile testing and accessibility audits, actively deployed on Vercel with structured schema markup.
 - **Tech Stack**: `Vite` `Three.js` `JavaScript` `HTML/CSS` `Vercel`
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
 ## 💻 Technical Arsenal
 
@@ -127,7 +128,9 @@ My core philosophy is building systems that solve deterministic problems with no
   </a>
 </div>
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
 ## 🏆 Achievements & Milestones
 
@@ -137,11 +140,11 @@ My core philosophy is building systems that solve deterministic problems with no
 - ♟️ **8th Rank** — Pune District Junior Chess Championship
 - 🎓 **ISTE Student Member** — 2025–2027
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
 ## 📊 GitHub Analytics
-
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishh70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="195" alt="GitHub Stats"/>
@@ -150,13 +153,13 @@ My core philosophy is building systems that solve deterministic problems with no
 
 <br/>
 
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishh70&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" width="400" alt="Top Languages"/>
 </div>
 
----
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
 <div align="center">
   
