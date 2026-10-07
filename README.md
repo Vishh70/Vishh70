@@ -35,7 +35,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 👨‍💻 About Me & My Focus
 
@@ -52,7 +52,7 @@
 - 🌱 **Currently learning**: Advanced inference pipelines, distributed cloud architecture, and Kubernetes.
 - ⚡ **Fun fact**: I've managed over 75 tech and cultural events and I play competitive chess! ♟️
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🚀 Featured Engineering Projects
 
@@ -106,7 +106,7 @@
 <hr/>
 </details>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 🛠️ Comprehensive Tech Stack
 
@@ -130,7 +130,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## 📊 Dynamic GitHub Analytics
 
@@ -140,16 +140,19 @@
 <br/>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishh70&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishh70&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishh70&layout=donut&hide_border=true&theme=tokyonight" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishh70&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=f7768e" alt="GitHub Activity Graph" width="100%" />
+</div>
 
-
----
+<br/><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" />
   <br/><br/>
   <b><a href="mailto:vishnuaware7066@gmail.com">Let's Connect: vishnuaware7066@gmail.com</a></b>
