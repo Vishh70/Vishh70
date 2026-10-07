@@ -10,8 +10,10 @@
 <br/>
 
 <a href="https://github.com/Vishh70">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishh70.Vishh70&left_color=000000&right_color=0A66C2&left_text=Profile%20Views" alt="Visitor Badge"/>
+  
 </a>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Vishh70.Vishh70&left_color=000000&right_color=0A66C2&left_text=Profile%20Views" alt="Visitor Badge"/>
 
 <a href="https://www.linkedin.com/in/vishh70/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
