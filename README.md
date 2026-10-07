@@ -25,11 +25,7 @@
 
 <br/><br/>
 
-### 🏆 GitHub Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishh70&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Vishh70 Trophies" />
-</a>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
@@ -147,13 +143,7 @@
 
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vishh70/Vishh70/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vishh70/Vishh70/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Vishh70/Vishh70/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
 
 ---
 
