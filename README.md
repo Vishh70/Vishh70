@@ -2,14 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Vishnu%20Aware&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20AI/ML%20|%20Cybersecurity&descAlignY=55&descAlign=50" width="100%" />
 
-<a href="https://github.com/Vishh70">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishh70.Vishh70&left_color=000000&right_color=0A66C2&left_text=Profile%20Views" alt="Visitor Badge"/>
-</a>
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+deterministic+infrastructure;Engineering+with+machine+learning;Scaling+full-stack+applications)](https://git.io/typing-svg)
 
 <br/>
+
+<a href="https://github.com/Vishh70">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Vishh70.Vishh70&left_color=000000&right_color=0A66C2&left_text=Profile%20Views" alt="Visitor Badge"/>
+</a>
 
 <a href="https://www.linkedin.com/in/vishh70/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
