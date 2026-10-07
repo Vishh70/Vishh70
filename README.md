@@ -141,11 +141,7 @@ My core philosophy is building systems that solve deterministic problems with no
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vishh70&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
 
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishh70&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="195" alt="GitHub Stats"/>
