@@ -69,14 +69,14 @@
 <summary><b>🔍 View AI & ML Engineering Details</b></summary>
 <br/>
 <b>🏛️ GrievanceIQ — Civic Intelligence Platform</b><br/>
-- **Problem:** Civic complaints are unstructured, duplicated, and difficult to route.<br/>
-- **Engineering Depth:** Uses `MiniLM-L6-v2` embeddings and a multi-label Logistic Regression classifier. Implements a Random Forest relationship detector to aggregate duplicate complaints into isolated Civic Issues using Connected Components graph traversal. Generates Directed Acyclic Graphs (DAGs) for deterministic task routing.<br/>
-- **Tech Stack:** `React`, `Node.js`, `Python`, `Flask`, `Supabase`, `BullMQ`, `Scikit-learn`
+- <b>Problem:</b> Civic complaints are unstructured, duplicated, and difficult to route.<br/>
+- <b>Engineering Depth:</b> Uses <code>MiniLM-L6-v2</code> embeddings and a multi-label Logistic Regression classifier. Implements a Random Forest relationship detector to aggregate duplicate complaints into isolated Civic Issues using Connected Components graph traversal. Generates Directed Acyclic Graphs (DAGs) for deterministic task routing.<br/>
+- <b>Tech Stack:</b> <code>React</code>, <code>Node.js</code>, <code>Python</code>, <code>Flask</code>, <code>Supabase</code>, <code>BullMQ</code>, <code>Scikit-learn</code>
 <br/><br/>
 <b>🏭 TE Connectivity — Predictive Monitoring ML Pipeline</b><br/>
-- **Problem:** High-volume mechanical scrap due to unforeseen mechanical tolerance drifts.<br/>
-- **Engineering Depth:** Engineered rolling-window time-series features. Deployed a highly optimized `LightGBM` inference model operating on a `FastAPI` backend to minimize latency over wide feature vectors.<br/>
-- **Tech Stack:** `Python`, `FastAPI`, `LightGBM`, `Pandas`, `React`, `Vite`
+- <b>Problem:</b> High-volume mechanical scrap due to unforeseen mechanical tolerance drifts.<br/>
+- <b>Engineering Depth:</b> Engineered rolling-window time-series features. Deployed a highly optimized <code>LightGBM</code> inference model operating on a <code>FastAPI</code> backend to minimize latency over wide feature vectors.<br/>
+- <b>Tech Stack:</b> <code>Python</code>, <code>FastAPI</code>, <code>LightGBM</code>, <code>Pandas</code>, <code>React</code>, <code>Vite</code>
 <hr/>
 </details>
 
@@ -95,14 +95,14 @@
 <summary><b>🔍 View Security & Full-Stack Engineering Details</b></summary>
 <br/>
 <b>🛡️ Self-Learning AI IDS — Cybersecurity Infrastructure</b><br/>
-- **Problem:** Signature-based network monitoring fails against novel threat patterns.<br/>
-- **Engineering Depth:** Designed a real-time Scapy-based pipeline to extract 16 distinct feature vectors from raw PCAP traffic. Utilizes an unsupervised `Isolation Forest` model, dynamically calibrating raw decision functions into a human-readable 1-100% risk index.<br/>
-- **Tech Stack:** `Python`, `Scapy`, `Scikit-learn`, `Flask`, `Pytest`
+- <b>Problem:</b> Signature-based network monitoring fails against novel threat patterns.<br/>
+- <b>Engineering Depth:</b> Designed a real-time Scapy-based pipeline to extract 16 distinct feature vectors from raw PCAP traffic. Utilizes an unsupervised <code>Isolation Forest</code> model, dynamically calibrating raw decision functions into a human-readable 1-100% risk index.<br/>
+- <b>Tech Stack:</b> <code>Python</code>, <code>Scapy</code>, <code>Scikit-learn</code>, <code>Flask</code>, <code>Pytest</code>
 <br/><br/>
 <b>🍽️ Smartnivad — Full-Stack Platform</b><br/>
-- **Problem:** Need for a resilient, performant, AI-assisted food tech architecture.<br/>
-- **Engineering Depth:** Engineered on a server-rendered Next.js architecture with Prisma relational data modeling. Implements Edge caching strategies, dynamic OG image generation, and strict `Playwright` E2E testing to enforce Lighthouse CI performance budgets.<br/>
-- **Tech Stack:** `Next.js 15`, `Prisma`, `PostgreSQL`, `NextAuth`, `Playwright`, `TailwindCSS`
+- <b>Problem:</b> Need for a resilient, performant, AI-assisted food tech architecture.<br/>
+- <b>Engineering Depth:</b> Engineered on a server-rendered Next.js architecture with Prisma relational data modeling. Implements Edge caching strategies, dynamic OG image generation, and strict <code>Playwright</code> E2E testing to enforce Lighthouse CI performance budgets.<br/>
+- <b>Tech Stack:</b> <code>Next.js 15</code>, <code>Prisma</code>, <code>PostgreSQL</code>, <code>NextAuth</code>, <code>Playwright</code>, <code>TailwindCSS</code>
 <hr/>
 </details>
 
